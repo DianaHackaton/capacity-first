@@ -1,0 +1,12 @@
+# Capacity First MVP
+- [x] Guided assessment, support methods and observation forms
+- [x] Secure real AI analysis with autonomy safeguards
+- [x] Editable report and PDF export
+- [x] Fictional demonstration and accessible mobile layout
+- [x] End-to-end verification and safety tests
+- [x] Require server-verified sign-in for AI analysis, with minimal inline sign-in
+- [x] Verify signed-out UI and direct server-function rejection; authentication boundary regression tests
+- [x] Verify live signed-in assessment analysis with current, non-example notes
+- [x] Fix and test New assessment and Load example, all six steps, and desktop/mobile navigation
+- [x] Enable temporary public real AI demo with validation and approved durable quotas
+- [x] Verify anonymous real analysis and PDF download on desktop/mobile, plus quota tests
